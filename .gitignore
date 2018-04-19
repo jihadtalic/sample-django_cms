@@ -102,3 +102,6 @@ ENV/
 
 # SQLite
 *.db
+
+# VSCode stuff
+.vscode
