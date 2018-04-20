@@ -139,6 +139,7 @@ INSTALLED_APPS = (
 
     'mysite',
     'polls_cms_integration',
+    'hello_cms_plugin',
 
     'polls',
     'aldryn_apphooks_config',
