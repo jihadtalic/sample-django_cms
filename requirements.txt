@@ -21,4 +21,5 @@ Pillow>=3.0
 django-sekizai>=0.9
 six
 
-http://git@github.com/divio/django-polls.git#egg=polls
+-e git+http://git@github.com/divio/django-polls.git@c3c63060aa4f14530bb90be2741a51ed83b71aa7#egg=polls
+aldryn-newsblog==2.1.1
